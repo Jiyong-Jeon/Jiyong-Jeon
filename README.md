@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&fontAlignY=45&height=150&text=Jiyong-Jeon&fontColor=ffffff&desc=Developer&descAlignY=82&animation=fadeIn)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJitong-Jeon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### ✨ Skills ✨
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
